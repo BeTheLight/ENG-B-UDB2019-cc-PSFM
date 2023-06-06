@@ -1,7 +1,10 @@
 # ENG-B-DEB2020-cc-PSFM
-### Dynamic English Bible 2020 (BibleCorps)
+### Dynamic English Bible 2020 
+(BibleCorps)
 
-### English Unlocked Dynamic Bible (Wycliffe Associates & Door43 Missions)
+### English Unlocked Dynamic Bible 
+(Wycliffe Associates & Door43 Missions)
+
 BTL Publishing Status: Checking (not ready)
 
 Get the [Android Version](https://play.google.com/store/apps/details?id=org.thebiblecorps.eng.deb) or [Epub](https://drive.google.com/file/d/15ArFa0LVdXcpDXUJzD_Wsg0MCAPKX1mi/view?usp=sharing).
